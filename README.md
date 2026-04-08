@@ -18,7 +18,7 @@ main/
 |   
 └── task /
 |   └── base.py                # base abstract class representing each client's task   
-└── out /
+└── out /                      # RESULTS
     └── federated_multiseed /
     └── centralized_multiseed /
 
